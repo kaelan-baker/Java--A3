@@ -1,0 +1,6 @@
+Motorcycle,Kawasaki Ninja,Green,
+Truck,Ford F150,Red,false,
+Truck,Ford 150,Purple, true,
+Tesla,S90,White,true,
+Tesla,Model 3,Black,false,
+Motorcycle,Yamaha Scooter,Blue
